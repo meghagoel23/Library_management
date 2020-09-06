@@ -1,0 +1,2 @@
+# Library_management
+A java application built to manage library of an institution. The application is built using Java, Swing, JDBC and MySQL.Project aimed to create a web based application to keep the book records. In this project we can add books and can issue them to the registered users. Also, the admin can add different books and delete them. Student can also view the book details available in the library.
